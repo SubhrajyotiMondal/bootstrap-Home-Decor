@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+
+/* font-family: "Bodoni Moda", serif; */
+
+/* navber css */
+
+
+body h2{
+    font-family: "Bodoni Moda", serif;
+    color: #644135;
+}
+body h4{
+    font-family: "Bodoni Moda", serifgit add;
+}
+
+
+
+.banner {
+    background: url(../image/banner.jpg)
+    center/cover no-repeat;
+    height: 90vh;
+    }
+.banner .container a{
+    color: #644135;
+}
+
+/* about us */
+
+
+.about h2 {
+  letter-spacing: 1px;
+}
+.about_part .about img {
+  height: 450px;
+  width: 400px;
+}
+
+.about_part .about2 img{
+    height: 500px;
+    width: 650px;
+}
+
+.about_part .about button{
+    background-color: #644135;
+    color: #EAE9E4;
+}
+
+section .about_section{
+  background-color: #EAE9E4 !important;
+}
+
+/* categories */
+
+
+.categories .category-box {
+  background-color: #6b3f32;   /* Brown box */
+  height: 150px;
+  border-radius: 4px;
+}
+p {
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+/* new arrivals */
+
+
+
+.arrivals .product1{
+    width: 220px;
+    margin-top: 100px;
+}
+.arrivals .product1 img{
+    height: 300px;
+    /* width: 250px; */
+}
+.arrivals .product2{
+    width: 220px;
+    margin-top: 50px;
+}
+
+.arrivals .product2 img{
+    /* width: 250px; */
+    height: 400px;
+}
+
+.arrivals .product3{
+    width: 220px;
+}
+.arrivals .product3 img{
+    height: 500px;
+    /* width: 250px; */
+}
+.arrivals h6 {
+  letter-spacing: 1px;
+}
+
+/* product */
+
+.product_part .product_part1 img{
+    height: 390px;
+}
+.product_part .product_part3 img{
+    height: 390px;
+}
+
+/* deals */
+
+/* testimonials */
+
